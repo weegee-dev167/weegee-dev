@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @weegee-dev
 - 👀 I’m interested in Games and Memes
+- 📫 You can reach me on Discord as weegee_dev167
+- 
 <!-- - 🌱 I’m currently learning C#
 
-- 📫 How to reach me weegee dev#8125 on Discord
+
 
 <!---
 weegee-dev/weegee-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
