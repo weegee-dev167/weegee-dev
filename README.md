@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @weegee-dev
 - 👀 I’m interested in Games and Memes
 - 📫 You can reach me on Discord as weegee_dev167
-- 
+- Smash Bros Ultimate is Epic
 <!-- - 🌱 I’m currently learning C#
 
 
